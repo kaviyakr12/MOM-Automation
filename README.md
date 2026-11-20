@@ -35,7 +35,7 @@
 ## Features
 
 - **Multiple Input Sources:** Supports live audio recording through microphone and system audio, along with uploaded audio/video files.
-- **Audio Preprocessing:**Normalizes audio, removes silence, and divides recordings into manageable chunks with overlapping segments.
+- **Audio Preprocessing:** Normalizes audio, removes silence, and divides recordings into manageable chunks with overlapping segments.
 - **Parallel Processing:** Processes audio chunks concurrently to improve transcription speed.
 - **Speech-to-Text:** Converts audio into text using Faster-Whisper with multilingual support.
 - **Transcript Cleaning:** Removes filler words, duplicate content, and unnecessary formatting.
