@@ -34,13 +34,13 @@
 
 ## Features
 
-- **Multiple Input Sources:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supports live audio recording through microphone and system audio, along with uploaded audio/video files.
-- **Audio Preprocessing:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Normalizes audio, removes silence, and divides recordings into manageable chunks with overlapping segments.
-- **Parallel Processing:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Processes audio chunks concurrently to improve transcription speed.
-- **Speech-to-Text:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Converts audio into text using Faster-Whisper with multilingual support.
-- **Transcript Cleaning:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Removes filler words, duplicate content, and unnecessary formatting.
-- **LLM-Based Summarization:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uses Ollama with Mistral to generate structured JSON containing agendas, discussions, decisions, and next steps.
-- **Privacy-Focused Processing:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uses a local LLM and in-memory transcript processing to help protect confidential meeting information.
+- **Multiple Input Sources:** Supports live audio recording through microphone and system audio, along with uploaded audio/video files.
+- **Audio Preprocessing:**Normalizes audio, removes silence, and divides recordings into manageable chunks with overlapping segments.
+- **Parallel Processing:** Processes audio chunks concurrently to improve transcription speed.
+- **Speech-to-Text:** Converts audio into text using Faster-Whisper with multilingual support.
+- **Transcript Cleaning:** Removes filler words, duplicate content, and unnecessary formatting.
+- **LLM-Based Summarization:** Uses Ollama with Mistral to generate structured JSON containing agendas, discussions, decisions, and next steps.
+- **Privacy-Focused Processing:** Uses a local LLM and in-memory transcript processing to help protect confidential meeting information.
 
 
 
